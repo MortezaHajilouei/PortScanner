@@ -1,4 +1,4 @@
 all:
-	g++ -pthread -o scanner main.cpp
+	g++ -pthread -o scanner.out main.cpp
 clean:
-	rm scanner
+	rm scanner.out
